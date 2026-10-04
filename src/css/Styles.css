@@ -146,3 +146,45 @@
         .btn-prevenir { background-color: #CCEFE4; color: #107C5F; }
         .btn-aligerar { background-color: #FDF0D5; color: #B37D14; }
         .btn-refinar  { background-color: #E2DBFC; color: #6549DB; }
+
+/* Capítulos 3 y 4 */
+.img-container {
+    width: 100%;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
+.badge-purple { 
+    background-color: #E2DBFC; 
+    color: #6549DB; 
+}
+
+.info-banner-refinar { 
+    background-color: #E2DBFC; 
+    border-radius: 8px; 
+    padding: 16px 20px; 
+    font-size: 13px; 
+    color: #4D34C7; 
+    font-weight: 500; 
+    width: 100%; 
+    margin-top: 40px; 
+}
+
+.intro-text {
+    color: #666055;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 40px;
+    max-width: 650px;
+}
+
+
+  
